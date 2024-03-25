@@ -1,5 +1,5 @@
 # Greenland_Glacier_Community_Detection
-Community Detection Algorithm Over Greenland Glaciers
+Community Detection Algorithm Over Greenland Glaciers (code located inside Github_Code Folder)
 
 
 # Preprocessing_Dataset
